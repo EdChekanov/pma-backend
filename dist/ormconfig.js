@@ -16,7 +16,7 @@ exports.default = {
     username: 'postgres',
     password: '36ed',
     database: 'postgres',
-    synchronize: true,
+    synchronize: false,
     logging: false,
     entities: ['src/resources/**/**.entity{.ts,.js}'],
     migrations: ['./migrations/*.ts'],
