@@ -158,3 +158,67 @@
 {"level":30,"time":1650987052000,"pid":6536,"hostname":"FennecBOB","msg":"Mapped {/file, POST} route"}
 {"level":30,"time":1650987052001,"pid":6536,"hostname":"FennecBOB","msg":"Mapped {/file/:taskid/:filename, GET} route"}
 {"level":30,"time":1650987052006,"pid":6536,"hostname":"FennecBOB","msg":"Nest application successfully started"}
+{"level":30,"time":1651038347843,"pid":6492,"hostname":"FennecBOB","msg":"AppController {/}:"}
+{"level":30,"time":1651038347848,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/, GET} route"}
+{"level":30,"time":1651038347848,"pid":6492,"hostname":"FennecBOB","msg":"UsersController {/users}:"}
+{"level":30,"time":1651038347850,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/users, GET} route"}
+{"level":30,"time":1651038347851,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/users/:id, GET} route"}
+{"level":30,"time":1651038347853,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/users/:id, DELETE} route"}
+{"level":30,"time":1651038347854,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/users/:id, PUT} route"}
+{"level":30,"time":1651038347854,"pid":6492,"hostname":"FennecBOB","msg":"AuthController {/}:"}
+{"level":30,"time":1651038347856,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/signin, POST} route"}
+{"level":30,"time":1651038347857,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/signup, POST} route"}
+{"level":30,"time":1651038347857,"pid":6492,"hostname":"FennecBOB","msg":"BoardsController {/boards}:"}
+{"level":30,"time":1651038347859,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards, GET} route"}
+{"level":30,"time":1651038347860,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:id, GET} route"}
+{"level":30,"time":1651038347862,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards, POST} route"}
+{"level":30,"time":1651038347862,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:id, DELETE} route"}
+{"level":30,"time":1651038347863,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:id, PUT} route"}
+{"level":30,"time":1651038347863,"pid":6492,"hostname":"FennecBOB","msg":"ColumnsController {/boards/:boardId/columns}:"}
+{"level":30,"time":1651038347864,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns, GET} route"}
+{"level":30,"time":1651038347865,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId, GET} route"}
+{"level":30,"time":1651038347866,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns, POST} route"}
+{"level":30,"time":1651038347867,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId, DELETE} route"}
+{"level":30,"time":1651038347867,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId, PUT} route"}
+{"level":30,"time":1651038347868,"pid":6492,"hostname":"FennecBOB","msg":"TasksController {/boards/:boardId/columns/:columnId/tasks}:"}
+{"level":30,"time":1651038347869,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, GET} route"}
+{"level":30,"time":1651038347869,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, GET} route"}
+{"level":30,"time":1651038347870,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, POST} route"}
+{"level":30,"time":1651038347871,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, DELETE} route"}
+{"level":30,"time":1651038347872,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, PUT} route"}
+{"level":30,"time":1651038347872,"pid":6492,"hostname":"FennecBOB","msg":"FileController {/}:"}
+{"level":30,"time":1651038347873,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/file, POST} route"}
+{"level":30,"time":1651038347873,"pid":6492,"hostname":"FennecBOB","msg":"Mapped {/file/:taskid/:filename, GET} route"}
+{"level":30,"time":1651038347879,"pid":6492,"hostname":"FennecBOB","msg":"Nest application successfully started"}
+{"level":30,"time":1651038664870,"pid":2972,"hostname":"FennecBOB","msg":"AppController {/}:"}
+{"level":30,"time":1651038664875,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/, GET} route"}
+{"level":30,"time":1651038664875,"pid":2972,"hostname":"FennecBOB","msg":"UsersController {/users}:"}
+{"level":30,"time":1651038664877,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/users, GET} route"}
+{"level":30,"time":1651038664879,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/users/:id, GET} route"}
+{"level":30,"time":1651038664880,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/users/:id, DELETE} route"}
+{"level":30,"time":1651038664881,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/users/:id, PUT} route"}
+{"level":30,"time":1651038664881,"pid":2972,"hostname":"FennecBOB","msg":"AuthController {/}:"}
+{"level":30,"time":1651038664883,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/signin, POST} route"}
+{"level":30,"time":1651038664884,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/signup, POST} route"}
+{"level":30,"time":1651038664885,"pid":2972,"hostname":"FennecBOB","msg":"BoardsController {/boards}:"}
+{"level":30,"time":1651038664886,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards, GET} route"}
+{"level":30,"time":1651038664888,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:id, GET} route"}
+{"level":30,"time":1651038664889,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards, POST} route"}
+{"level":30,"time":1651038664890,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:id, DELETE} route"}
+{"level":30,"time":1651038664891,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:id, PUT} route"}
+{"level":30,"time":1651038664891,"pid":2972,"hostname":"FennecBOB","msg":"ColumnsController {/boards/:boardId/columns}:"}
+{"level":30,"time":1651038664892,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns, GET} route"}
+{"level":30,"time":1651038664892,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId, GET} route"}
+{"level":30,"time":1651038664893,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns, POST} route"}
+{"level":30,"time":1651038664894,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId, DELETE} route"}
+{"level":30,"time":1651038664896,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId, PUT} route"}
+{"level":30,"time":1651038664896,"pid":2972,"hostname":"FennecBOB","msg":"TasksController {/boards/:boardId/columns/:columnId/tasks}:"}
+{"level":30,"time":1651038664897,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, GET} route"}
+{"level":30,"time":1651038664898,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, GET} route"}
+{"level":30,"time":1651038664898,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, POST} route"}
+{"level":30,"time":1651038664899,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, DELETE} route"}
+{"level":30,"time":1651038664900,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, PUT} route"}
+{"level":30,"time":1651038664900,"pid":2972,"hostname":"FennecBOB","msg":"FileController {/}:"}
+{"level":30,"time":1651038664901,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/file, POST} route"}
+{"level":30,"time":1651038664902,"pid":2972,"hostname":"FennecBOB","msg":"Mapped {/file/:taskid/:filename, GET} route"}
+{"level":30,"time":1651038664907,"pid":2972,"hostname":"FennecBOB","msg":"Nest application successfully started"}
