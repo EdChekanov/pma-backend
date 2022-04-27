@@ -10,7 +10,7 @@
   "main": "src/server.js",
   "scripts": {
     "start": "nest start",
-    "build": "nest build",
+    "build": "",
     "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
     "start:prod": "node dist/main",
